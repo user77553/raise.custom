@@ -282,8 +282,9 @@ body#userhistory .tabs__panel>.linkbox:before {
 .release-name-movie-list__movie__release-category+td,
 [class$=__title-row],
 body#collages .thin>.table td:nth-child(2)>a {
- font-size:12px;
- font-weight:400
+ font-size:14px;
+ font-weight:600;
+ text-transform:           uppercase;
 }
 [class$=__tag-list],
 [class$=__tags] {
