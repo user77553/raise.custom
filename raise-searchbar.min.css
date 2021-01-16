@@ -283,8 +283,8 @@ body#userhistory .tabs__panel>.linkbox:before {
 [class$=__title-row],
 body#collages .thin>.table td:nth-child(2)>a {
  font-size:14px;
- font-weight:600;
- text-transform:           uppercase;
+ font-weight:400;
+ text-transform:uppercase;
 }
 [class$=__tag-list],
 [class$=__tags] {
