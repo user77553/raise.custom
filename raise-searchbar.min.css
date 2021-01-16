@@ -218,7 +218,7 @@ body#torrents .thin>.page__title+h2.text--center {
  line-height:38px;
  font-size:11px;
  font-weight:400;
- text-transform:uppercase;
+ text-transform:uppercase !important;
  white-space:nowrap;
  overflow:hidden;
  background:#232323
@@ -282,9 +282,8 @@ body#userhistory .tabs__panel>.linkbox:before {
 .release-name-movie-list__movie__release-category+td,
 [class$=__title-row],
 body#collages .thin>.table td:nth-child(2)>a {
- font-size:14px;
- font-weight:400;
- text-transform:uppercase;
+ font-size:12px;
+ font-weight:400
 }
 [class$=__tag-list],
 [class$=__tags] {
